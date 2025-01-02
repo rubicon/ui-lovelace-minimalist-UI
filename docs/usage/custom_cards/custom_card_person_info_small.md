@@ -6,8 +6,8 @@ title: Person Info Card
 
 ## Description
 
-![Person Info](../../docs/assets/img/custom_card_person_info_small_dark.png)
-![Person Info](../../docs/assets/img/custom_card_person_info_small_light.png)
+![Person Info](../../assets/img/custom_card_person_info_small_dark.png)
+![Person Info](../../assets/img/custom_card_person_info_small_light.png)
 
 The `custom_card_person_info_small` is based on `card_person_info`.
 
